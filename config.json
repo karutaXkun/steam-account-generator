@@ -1,0 +1,69 @@
+{
+  "Mail": {
+    "Random": true,
+    "Value": "steamaccgen12345@gmail.com"
+  },
+  "Login": {
+    "Random": true,
+    "Neat": true,
+    "Value": null
+  },
+  "Password": {
+    "Random": true,
+    "Neat": true,
+    "Value": "123@asd_12"
+  },
+  "Games": {
+    "AddGames": true,
+    "GamesToAdd": [
+      {
+        "Name": "CSGO",
+        "SubId": 329385
+      }
+    ]
+  },
+  "Profile": {
+    "Enabled": true,
+    "Name": "",
+    "RealName": "",
+    "Url": false,
+    "Bio": "",
+    "Image": "",
+    "Country": "",
+    "State": "",
+    "City": "",
+    "DoJoinToGroups": false,
+    "GroupsToJoin": []
+  },
+  "Captcha": {
+    "Service": -1,
+    "CaptchaSolutions": {
+      "ApiKey": "",
+      "ApiSecret": ""
+    },
+    "RuCaptcha": {
+      "ApiKey": "",
+      "ReportBad": false,
+      "TransferProxy": true
+    }
+  },
+  "Output": {
+    "Enabled": true,
+    "WriteEmails": true,
+    "SaveType": 0,
+    "Path": "C:\\Users\\sreen\\OneDrive\\Desktop\\New Text Document (4).txt"
+  },
+  "Proxy": {
+    "Enabled": false,
+    "List": [
+      {
+        "Enabled": false,
+        "Host": "182.52.238.119",
+        "Port": 40456,
+        "ProxyType": 0,
+        "UserName": "",
+        "Password": ""
+      }
+    ]
+  }
+}
