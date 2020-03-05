@@ -1,6 +1,6 @@
 # Steam Account Generator
 
-Web generator: https://accgen.cathook.club/ (not maintained by [EarsKilla](https://github.com/EarsKilla))
+Web generator: https://accgen.cathook.club/ 
 
 |Branch|CI status|
 |------|---------|
